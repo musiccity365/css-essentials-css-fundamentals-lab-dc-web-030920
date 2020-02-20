@@ -15,7 +15,10 @@ nav a {
   background-color: gray;
 }
 
-section #featuredproperty
+section #featured-property p {
+  width: 800px;
+  text-align: center;
+}
 
 div{
   background-color: red;
