@@ -13,10 +13,11 @@ nav{
 }
 
 div{
-  
+  background-color: red;
+  text-align: center;
+  width: 25%;
 }
 section #details{
-  color: red;
   display: block;
   float: left;
 }
