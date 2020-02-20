@@ -4,6 +4,12 @@ body {
   margin: 0;
 }
 
+header{
+  
+}
+
 section #details{
   color: red;
+  display: block;
+  float: left;
 }
